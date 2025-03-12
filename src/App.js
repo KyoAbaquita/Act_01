@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import TaskInput from './TaskInput';
-import TaskList from './TaskList';
+import TaskInput from './components/TaskInput';
+import TaskList from './components/TaskList';
 
 // App Component
 const App = () => {
